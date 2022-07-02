@@ -1,11 +1,11 @@
 # Groupe de sanche_e 971005
 
 # EQUIPE
-Cédric Chau
-Eric Sanchez
-Amélie Roynette
-Léna Martin
-Jean Francois Maro
+Cédric Chau, 
+Eric Sanchez, 
+Amélie Roynette, 
+Léna Martin, 
+Jean Francois Maro, 
 
 # Le projet
 Création d'un site e-commerce en Laravel, vente de bubble tea.
